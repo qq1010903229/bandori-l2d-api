@@ -1,1 +1,1 @@
-{"textures":{"id":41}}
+{"textures":{"id":2}}

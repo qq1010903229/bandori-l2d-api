@@ -4,8 +4,8 @@
 "physics":"1-1p.json",
 "layout":{"center_x":0,"center_y":-0.05,"width":2},
 "motions":{"idle":[{"file":"1/idle01.mtn"}],
-"wtev1-0":[{"file":"1/smile01.mtn","sound":"1-0.mp3"}],
-"wtev1-0a":[{"file":"1/nf04.mtn"}],
+"wtev1-0":[{"file":"1/nf04.mtn","sound":"1-0.mp3"}],
+"wtev1-0a":[{"file":"1/smile01.mtn"}],
 "wtev1-1":[{"file":"1/jaan01.mtn","sound":"1-1.mp3"}]
 },
 "hit_areas_custom":{}
